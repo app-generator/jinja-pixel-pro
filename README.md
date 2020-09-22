@@ -9,12 +9,13 @@
 
 > Links
 
-- [LIVE Demo](https://jinja-pixel-uikit-pro.appseed.us/) - starter in action
+- [Jinja Pixel PRO](https://appseed.us/jinja-template/jinja-pixel-uikit-pro) - product page
+- [Jinja Pixel PRO Demo](https://jinja-pixel-uikit-pro.appseed.us/) - starter in action
 - [Jinja Template](https://github.com/app-generator/jinja-template) - A curated list with Jinja projects that use this template
 
 <br />
 
-![Jinja Pixel PRO -  template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-pixel-uikit-pro/master/media/jinja-pixel-uikit-pro-screen.png)
+![Jinja Pixel PRO -  Pixel UI PRO, coded in Jinja by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-pixel-uikit-pro/master/media/jinja-pixel-uikit-pro-intro.gif)
 
 <br />
 
