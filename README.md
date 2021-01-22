@@ -9,13 +9,12 @@
 
 > Links
 
-- [Jinja Pixel PRO](https://appseed.us/jinja-template/jinja-pixel-uikit-pro) - product page
-- [Jinja Pixel PRO Demo](https://jinja-pixel-uikit-pro.appseed.us/) - starter in action
+- [LIVE Demo](https://jinja-pixel-pro.appseed-srv1.com) - starter in action
 - [Jinja Template](https://github.com/app-generator/jinja-template) - A curated list with Jinja projects that use this template
 
 <br />
 
-![Jinja Pixel PRO -  Pixel UI PRO, coded in Jinja by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-pixel-uikit-pro/master/media/jinja-pixel-uikit-pro-intro.gif)
+![Jinja Pixel PRO -  template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-pixel-uikit-pro/master/media/jinja-pixel-uikit-pro-screen.png)
 
 <br />
 
@@ -23,8 +22,8 @@
 
 ```bash
 $ # Clone the sources
-$ git clone https://github.com/app-generator/priv-jinja-pixel-uikit-pro.git
-$ cd priv-jinja-pixel-uikit-pro
+$ git clone https://github.com/app-generator/priv-jinja-pixel-pro.git
+$ cd priv-jinja-pixel-pro
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv env
@@ -113,8 +112,8 @@ The steps to start the template using Docker:
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/priv-jinja-pixel-uikit-pro.git
-$ cd priv-jinja-pixel-uikit-pro
+$ git clone https://github.com/app-generator/priv-jinja-pixel-pro.git
+$ cd priv-jinja-pixel-pro
 ```
 
 > Start the app in Docker
@@ -139,8 +138,8 @@ Steps to deploy on **Heroku**
 
 ```bash
 $ # Clone the source code:
-$ git clone https://github.com/app-generator/priv-jinja-pixel-uikit-pro.git
-$ cd priv-jinja-pixel-uikit-pro
+$ git clone https://github.com/app-generator/priv-jinja-pixel-pro.git
+$ cd priv-jinja-pixel-pro
 $
 $ # Check Heroku CLI is installed
 $ heroku -v
