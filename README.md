@@ -1,16 +1,19 @@
 # [Jinja Pixel PRO](https://appseed.us/jinja-template/jinja-pixel-uikit-pro)
 
-> Seed project 
+Pixel Pro is a premium Bootstrap 5 UI Kit without jQuery featuring over 1000 components, 50+ sections and 35 example pages including a fully-fledged user dashboard. The codebase is a super simple Flask project WITHOUT database, ORM, or any other hard dependency.  
 
-- UI Kit: **Pixel PRO UI Kit** by **Themesberg**
+> Features
+
+- UI Kit: **[Pixel PRO](https://docs.appseed.us/content/bootstrap-template/pixel-pro)** by **Themesberg**
 - Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
 - Deployment scripts: Docker, Gunicorn/Nginx, HEROKU
 - Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
 > Links
 
-- [LIVE Demo](https://jinja-pixel-pro.appseed-srv1.com) - starter in action
-- [Jinja Template](https://github.com/app-generator/jinja-template) - A curated list with Jinja projects that use this template
+- [Jinja Pixel PRO](https://appseed.us/jinja-template/jinja-pixel-uikit-pro) - product page
+- [Jinja Pixel PRO](https://jinja-pixel-pro.appseed-srv1.com/) - LIVE deployment 
+- [Jinja Pixel PRO](https://docs.appseed.us/products/jinja-templates/pixel-pro) - product documentation
 
 <br />
 
@@ -210,4 +213,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Jinja Template](https://jinja-pixel-uikit-pro.appseed.us/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Jinja Pixel PRO](https://appseed.us/jinja-template/jinja-pixel-uikit-pro) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
