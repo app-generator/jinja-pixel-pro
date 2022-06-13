@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.3] 202-06-13
+### Improvements
+
+- Built with [Pixel Pro Generator](https://appseed.us/generator/pixel-bootstrap-pro/)
+  - Timestamp: `2022-06-13 18:40`
+
 ## [1.0.2] 2021-07-01
 
 - Bump UI: Pixel Pro Bootstrap 5 - v5.4.0
